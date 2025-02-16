@@ -96,7 +96,7 @@ expiryDate = ["expiryDate"]
   themeColor = "#181b20"
   accentColor = "#cccccc"
 
-  homeSubtitle = ""
+  homeSubtitle = "A calm mind."
   footerCopyright = "Vim used here "
   # footerHideThemeName = false
   # bgImg = ""

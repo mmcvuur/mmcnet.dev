@@ -1,11 +1,15 @@
-+++
-date = '2025-02-16T10:06:43+01:00'
-draft = false
-title = 'About'
-pin = false
-+++
+---
+title: 'About'
+date: '2025-02-16T10:06:43+01:00'
+draft: false
+toc: false
+pin: false
+images:
+tags:
+  - general
+---
 
-This site is hosted in Belgium 🇧🇪
+This site is hosted in Belgium 🇧🇪 and runs on FreeBSD.
 
 If you're curious, this website is where I occasionally share my thoughts and ideas publicly. I prefer to post here, where I have full control, rather than relying on other platforms. This way, I can express myself freely without worrying about censorship algorithms.
 
