@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on MMCNET</title>
+    <link>https://mmcnet.dev/en/tags/general/</link>
+    <description>Recent content in General on MMCNET</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>MMCNET</copyright>
+    <lastBuildDate>Wed, 12 Feb 2025 06:56:23 +0100</lastBuildDate>
+    <atom:link href="https://mmcnet.dev/en/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://mmcnet.dev/en/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Feb 2025 16:09:20 +0100</pubDate>
+      <guid>https://mmcnet.dev/en/posts/my-first-post/</guid>
+      <description>&lt;p&gt;No inspiration, come back later.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
