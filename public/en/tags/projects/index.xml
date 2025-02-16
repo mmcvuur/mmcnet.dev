@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MMCNET</title>
+    <link>https://mmcnet.dev/en/tags/projects/</link>
+    <description>Recent content in Projects on MMCNET</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>MMCNET</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 10:25:36 +0100</lastBuildDate>
+    <atom:link href="https://mmcnet.dev/en/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anonymous Chat</title>
+      <link>https://mmcnet.dev/en/projects/anoniemchat/</link>
+      <pubDate>Tue, 11 Feb 2025 14:06:45 +0100</pubDate>
+      <guid>https://mmcnet.dev/en/projects/anoniemchat/</guid>
+      <description>&lt;p&gt;My goal for this project is to create a very simple chat app, where users are anonymous. No logs, cookies or ads.&lt;/p&gt;&#xA;&lt;p&gt;Written in plain Javascript using the socket.io library.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Find a demo &lt;a href=&#34;https://anoniem.chat&#34;&gt;here&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mmcvuur/Anoniem-Chat&#34;&gt;source&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
