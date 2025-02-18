@@ -96,7 +96,7 @@ expiryDate = ["expiryDate"]
   themeColor = "#181b20"
   accentColor = "#cccccc"
 
-  homeSubtitle = "A calm mind."
+  homeSubtitle = ""
   footerCopyright = "Vim used here "
   # footerHideThemeName = false
   # bgImg = ""
@@ -134,6 +134,10 @@ expiryDate = ["expiryDate"]
   [[params.socialLinks]]
     name = "bluesky"
     url = "https://bsky.app/profile/mmcvuur.bsky.social"
+
+  [[params.socialLinks]]
+    name = "mastodon"
+    url = "https://infosec.exchange/@mmcvuur"
 
   [[params.socialLinks]]
     name = "github"
