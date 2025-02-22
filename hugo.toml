@@ -61,7 +61,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "mmcvuur"
-  about = "/me"
+  about = "/about"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -136,10 +136,6 @@ expiryDate = ["expiryDate"]
     url = "https://bsky.app/profile/mmcvuur.bsky.social"
 
   [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://infosec.exchange/@mmcvuur"
-
-  [[params.socialLinks]]
     name = "github"
     url = "https://github.com/mmcvuur"
 
@@ -155,19 +151,14 @@ expiryDate = ["expiryDate"]
     weight = 10
 
   [[menu.main]]
-    name = "Me"
-    url = "me/"
-    weight = 20
-
-  [[menu.main]]
     name = "Posts"
     url = "posts/"
-    weight = 30
+    weight = 20
 
   [[menu.main]]
     name = "Projects"
     url = "projects/"
-    weight = 40
+    weight = 30
 
 #  [[menu.main]]
 #    name = "Tags"
