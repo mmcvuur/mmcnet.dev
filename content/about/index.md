@@ -16,11 +16,18 @@ This site is hosted in Belgium 🇧🇪 (the server is on my desk) and runs on F
 ## Interests
 
 - Cycling (road, gravel).
+  - [Strava](https://www.strava.com/athletes/mmcvuur)
 - Walking in the forest.
+- Reading about physics and the natural world.
 - Programming, mainly with Javascript these days.
-- Music, love metal and classical (studying the works of W. A. Mozart at the moment).
+  - Familiar with C, C++, Java and PHP.
+- Music, love metal and classical (studying the life and works of W. A. Mozart at the moment).
 - A cat person, cats rule. I want to live on planet cat.
 - Traveling, of course living here in Europe there is always someplace interesting to visit.
+- People I admire:
+  - Richard Feynman
+  - Marie Curie
+  - Steve Jobs
 
 ## Geek area
 
@@ -30,6 +37,3 @@ This site is hosted in Belgium 🇧🇪 (the server is on my desk) and runs on F
 - Vim is my editor.
 - ZSH is my shell.
 - Began using UNIX with Sun Solaris 2.4 on Sparc.
-
-## :wq!
-
