@@ -160,7 +160,7 @@ a {
 
   &:hover {
     color: $a-hover;
-    text-shadow: 0 0 1px $a-hover;
+    /* text-shadow: 0 0 1px $a-hover; */
   }
 }
 
@@ -467,6 +467,22 @@ p.img-404 {
 #home-title {
   margin: 0;
   text-align: center;
+  color: #fff;
+}
+
+#home-img {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#home-img img {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow:
+    0 0 30px #ffffff,         /* outer */
+    -10px 0 50px #44355b,     /* outer left */
+    10px 0 50px #31263e;      /* outer right */
 }
 
 #home-subtitle {

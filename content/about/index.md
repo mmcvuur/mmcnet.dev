@@ -5,17 +5,15 @@ title = 'About'
 pin = false
 +++
 
-My name is Michael, a long time computer geek living in Belgium 🇧🇪 but originally from the U.S. 🇺🇸
+My name is Michael (mmcvuur), a long time computer geek living in Belgium 🇧🇪 but originally from the U.S. 🇺🇸
 
 If you're curious, this website is where I occasionally share my thoughts and ideas publicly. Also, I will post a project or two, whatever I am creating. I prefer to post here, where I have full control, rather than relying on other platforms who steal your data and sell it. This way, I can express myself freely without worrying about censorship algorithms.
 
-No bullshit cookies, ads or tracking found here.
-
-This site is hosted in Belgium 🇧🇪 (the server is on my desk) and runs on FreeBSD.
+No bullshit cookies, ads or tracking found here. This site is hosted in Belgium 🇧🇪 (the server is on my desk) and runs [FreeBSD](https://freebsd.org).
 
 ## Interests
 
-- Cycling (road, gravel).
+- Cycling (road, gravel). Living here in Flanders, I get to ride where the pro's do!
   - [Strava](https://www.strava.com/athletes/mmcvuur)
 - Walking in the forest.
 - Reading about physics and the natural world.
@@ -32,8 +30,9 @@ This site is hosted in Belgium 🇧🇪 (the server is on my desk) and runs on F
 ## Geek area
 
 - Practicing Cyber Security advocate.
-- My prefered OS is FreeBSD, followed by OpenBSD. 
+- My prefered server OS is FreeBSD, followed by OpenBSD. 
   - I use Linux when I have too.
 - Vim is my editor.
 - ZSH is my shell.
 - Began using UNIX with Sun Solaris 2.4 on Sparc.
+  - Also familiar with IBM AIX.
